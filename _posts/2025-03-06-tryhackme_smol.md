@@ -4,7 +4,7 @@ author: NeoVirex
 categories: [TryHackMe]
 tags: [THM, Tryhackme, web, FFUF, ssh, php, python, WPScan]
 render_with_liquid: false
-media_subpath: images/tryhackme/tryhackme_smol/
+media_subpath: /images/tryhackme/tryhackme_smol/
 image:
   path: room_img.png
 ---
@@ -602,6 +602,8 @@ The code you posted is a **PHP web shell**, which allows an attacker to execute 
 ### make my own code using **https://www.revshells.com/ make it busybox nc -e , base64 and bin/bash**
 
 
+![Screenshot From 2025-03-07 20-38-49.png](img7.png)
+
 ### **Start a listener**
 
 ```jsx
@@ -1067,7 +1069,7 @@ xavi@smol:/home/gege$
 ```
 
 ### going to root and finding the flage
-
+```jsx
 Password:
 xavi@smol:/home/gege$ ls
 wordpress.old.zip
@@ -1095,6 +1097,7 @@ drwx------  2 root root 4.0K Jun  2  2023 .ssh
 root@smol:~$ cat root.txt
 bf89ea3ea01****f1f576214d4e4
 root@smol:~$
+```
 
 ## Flags
 
