@@ -601,7 +601,6 @@ The code you posted is a **PHP web shell**, which allows an attacker to execute 
 
 ### make my own code using **https://www.revshells.com/ make it busybox nc -e , base64 and bin/bash**
 
-![Screenshot From 2025-03-07 20-54-30.png](img7.png)
 
 ### **Start a listener**
 
