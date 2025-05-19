@@ -7,12 +7,12 @@ render_with_liquid: false
 media_subpath: /images/tryhackme/tryhackme_bypass_disable_functions/
 image:
   path: room_img.png
-description: "good"
+description: "This room teaches how to bypass PHP disabled functions, commonly used in Web CTFs and real-world restricted environments."
 ---
 # Bypass Disable Functions
 
-Created: April 9, 2025 5:36 PM
-Finishing Date: April 8, 2025
+Created: April 20, 2024 5:36 PM
+Finishing Date: April 22, 2024
 Status: Done
 
 ### 🛡️ TryHackMe: "Bypass Disabled Functions" Challenge — Full Walkthrough
