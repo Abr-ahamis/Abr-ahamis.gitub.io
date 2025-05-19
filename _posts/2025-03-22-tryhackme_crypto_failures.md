@@ -390,9 +390,11 @@ if __name__ == "__main__":
     main()
 ```
 
+```jsx
 ─$ python3 [p4.py](http://p4.py/)
 THM{Traditiona…..  running and finish  
 
+```
 ## reference for where i git the code
 
 [https://github.com/djalilayed/tryhackme/tree/main/Crypto Failures](https://github.com/djalilayed/tryhackme/tree/main/Crypto%20Failures)
