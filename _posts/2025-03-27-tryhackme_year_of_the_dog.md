@@ -11,7 +11,6 @@ description: The challenge focuses on Linux forensics and log analysis to invest
 ---
 
 
-
 # Year of the Dog
 
 ## Reconnaissance
@@ -155,7 +154,9 @@ You are number root:x:0:0:root:/root:/bin/bash daemon:x:1:1:daemon:/usr/sbin:/us
 
 ### p3 revers shell code
 
-[p3.php](p3.php)
+```jsx
+https://github.com/pentestmonkey/php-reverse-shell
+```
 
 ## Privilege Escalation
 
