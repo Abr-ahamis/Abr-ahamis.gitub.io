@@ -10,8 +10,11 @@ image:
   path: room_img.png
 description: A detailed walkthrough of the Cheese CTF challenge, covering reconnaissance, enumeration, exploitation, and privilege escalation.
 ---
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3a866c37e761dc88f32816a61b6a46bcb09b60fe
 
 **Challenge completed:** February 21, 2025 @ 13:20 (+03:00)
 

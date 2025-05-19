@@ -13,6 +13,10 @@ description: Implementing your own military-grade encryption is usually not the 
 Created: March 9, 2025 11:45 AM
 Status: Done
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a866c37e761dc88f32816a61b6a46bcb09b60fe
 ## Reconnaissance
 
 ### rust scan
@@ -387,9 +391,11 @@ if __name__ == "__main__":
     main()
 ```
 
+```jsx
 ─$ python3 [p4.py](http://p4.py/)
 THM{Traditiona…..  running and finish  
 
+```
 ## reference for where i git the code
 
 [https://github.com/djalilayed/tryhackme/tree/main/Crypto Failures](https://github.com/djalilayed/tryhackme/tree/main/Crypto%20Failures)
