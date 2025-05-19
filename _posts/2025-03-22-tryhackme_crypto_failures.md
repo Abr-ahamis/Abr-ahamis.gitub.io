@@ -7,14 +7,11 @@ render_with_liquid: false
 media_subpath: /images/tryhackme/tryhackme_crypto_failures/
 image:
   path: room_img.png
+description: Implementing your own military-grade encryption is usually not the best idea.
 ---
 
 Created: March 9, 2025 11:45 AM
 Status: Done
-
----
-description: "Implementing your own military-grade encryption is usually not the best idea."
----
 
 ## Reconnaissance
 

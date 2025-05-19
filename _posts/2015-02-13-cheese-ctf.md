@@ -8,11 +8,10 @@ render_with_liquid: false
 media_subpath: /images/tryhackme/tryhackme_cheese_ctf/
 image:
   path: room_img.png
+description: A detailed walkthrough of the Cheese CTF challenge, covering reconnaissance, enumeration, exploitation, and privilege escalation.
 ---
 
----
-description: "A detailed walkthrough of the Cheese CTF challenge, covering reconnaissance, enumeration, exploitation, and privilege escalation."
----
+
 
 **Challenge completed:** February 21, 2025 @ 13:20 (+03:00)
 
