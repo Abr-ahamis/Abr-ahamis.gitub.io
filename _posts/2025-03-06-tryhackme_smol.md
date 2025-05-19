@@ -9,11 +9,7 @@ image:
   path: room_img.png
 description: a medium-rated TryHackMe room that focuses on exploiting vulnerabilities in a WordPress site and performing privilege escalation to obtain the flag.
 ---
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 3a866c37e761dc88f32816a61b6a46bcb09b60fe
 # SMOL
 
 Created: March 6, 2025 1:35 AM
