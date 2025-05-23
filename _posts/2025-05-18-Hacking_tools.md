@@ -1,5 +1,5 @@
 ---
-title: "TryHackMe: Hacking-Tools"
+title: "Hacking-Tools"
 author: NeoVirex
 categories: [TryHackMe]
 tags: [tools]
