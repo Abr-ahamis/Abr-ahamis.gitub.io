@@ -4,6 +4,7 @@ author: NeoVirex
 categories: [TryHackMe]
 tags: [thm]
 render_with_liquid: false
+media_subpath: /images/tryhackme/tryhackme_owasp_top_10_2021/
 image:
   path: room_img.png
 description: "Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks."
