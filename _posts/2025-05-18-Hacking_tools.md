@@ -4,7 +4,7 @@ author: NeoVirex
 categories: [TryHackMe]
 tags: [tools]
 render_with_liquid: false
-media_subpath: /images/tryhackme/tryhackme_hacking_tools/
+media_subpath: /images/blogs/hacking_tools/
 image:
   path: room_img.png
 description: "all tools in kali tools in thier catagory"
